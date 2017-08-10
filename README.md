@@ -6,6 +6,7 @@ ex:
 OR 
 	subl ~/.bashrc (for sublime text)
 
-##Reload bashrc
+## Reload bashrc
+
 in command line write:
 `source ~/.bashrc` or . ~/.bashrc`
