@@ -9,4 +9,4 @@ OR
 ## Reload bashrc
 
 in command line write:
-`source ~/.bashrc` or . ~/.bashrc`
+`source ~/.bashrc` or . `~/.bashrc`
